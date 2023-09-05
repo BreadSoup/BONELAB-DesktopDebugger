@@ -1,4 +1,4 @@
-﻿namespace bonelab_template
+﻿namespace DesktopDebugger
 {
     internal partial class Main
     {

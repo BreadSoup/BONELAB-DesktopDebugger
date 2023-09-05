@@ -1,6 +1,10 @@
-﻿using MelonLoader;
+﻿using BoneLib;
+using BoneLib.BoneMenu;
+using BoneLib.BoneMenu.Elements;
+using MelonLoader;
+using UnityEngine;
 
-namespace bonelab_template
+namespace DesktopDebugger
 {
     internal partial class Main : MelonMod
     {
